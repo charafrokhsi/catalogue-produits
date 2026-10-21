@@ -1,0 +1,3 @@
+Idees pour plus tard:
+-ajouter barre de recherche 
+-ajouter tri par prix
